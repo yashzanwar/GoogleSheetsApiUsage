@@ -7,7 +7,7 @@ For initial setup of the project -
 * Replace the credentials.json file with the actual file. U can get it from [here](https://developers.google.com/sheets/api/quickstart/java).
 * Run the test and you will see a sheet created [here](https://docs.google.com/spreadsheets/u/0/).
 
-This project covers follwing things :-
+This project covers following things :-
 * Creating a spreadsheet
 * Inserting values.
 * Reading a value.
